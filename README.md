@@ -11,4 +11,4 @@ Given the intractable rise of Covid-19 cases in the world (particularly in New Y
 6. Orange
 
 ![Alt text](/corona_new_york.png?raw=true "Optional Title")
-The website was built with React and Firebase.
+I built this website with React and Firebase.
