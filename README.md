@@ -10,3 +10,4 @@ Given the intractable rise of Covid-19 cases in the world (particularly in New Y
 5. Nassau
 6. Orange
 
+![Alt text](/coronanewyork?raw=true "Optional Title")
