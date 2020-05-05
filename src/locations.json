@@ -1,0 +1,87 @@
+{"places": [
+    {
+    "name": "usa",
+    "longitude": -98.12078906038815,
+    "latitude": 39.07050154936433,
+    "zoom": 3.847,
+    "pitch": 41.8,
+    "bearing": 0.7,
+    "cases": 865585,
+    "deaths": 48816
+}
+,
+{
+    "name": "nyc",
+    "longitude": -74.005974,
+    "latitude": 40.712776,
+    "zoom": 6,
+    "pitch": 50,
+    "bearing": 7,
+    "cases": 271590,
+    "deaths": 16162
+}
+,
+{
+    "name": "westchester",
+    "longitude": -73.794853,
+    "latitude": 41.122021,
+    "zoom": 11,
+    "pitch": 60,
+    "bearing": -0.78,
+    "cases": 26633,
+    "deaths": 891
+}
+,
+{
+    "name": "nassau",
+    "longitude": -73.610924,
+    "latitude": 42.513439,
+    "zoom": 10,
+    "pitch": 46,
+    "bearing": -0.90,
+    "cases": 32765,
+    "deaths": 1518
+}
+,
+{
+    "name": "rockland",
+    "longitude": -73.989430,
+    "latitude": 41.147420,
+    "zoom": 8,
+    "pitch": 51,
+    "bearing": -0.88,
+    "cases": 10091,
+    "deaths": 436
+}
+,
+{
+    "name": "orange",
+    "longitude": -74.093670,
+    "latitude": 41.539320,
+    "zoom": 9,
+    "pitch": 42,
+    "bearing": -0.09,
+    "cases": 7770,
+    "deaths": 274
+}, {
+    "name": "suffolk",
+    "longitude":-72.475380,
+    "latitude":40.991320,
+    "zoom": 9,
+    "pitch": 40,
+    "bearing": -0.10,
+    "cases": 31520,
+    "deaths": 993
+
+},
+{
+    "name": "tompkins",
+    "longitude": -76.198600,
+    "latitude": 42.586400,
+    "zoom": 10,
+    "pitch": 50,
+    "bearing": -0.90,
+    "cases": 129,
+    "deaths": 2
+}]
+}
